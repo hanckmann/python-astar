@@ -1,1 +1,3 @@
 A* search algorithm implemented in Python.
+
+Original (python 2) implementation from [Mikael Lind](https://github.com/elemel/python-astar).
